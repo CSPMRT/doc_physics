@@ -3,6 +3,7 @@
 ===================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 目录:
 
+   数值模拟/热传导方程的数值模拟
